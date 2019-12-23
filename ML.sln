@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ML.API", "ML.API\ML.API.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxiFarePrediction", "TaxiFarePrediction\TaxiFarePrediction.csproj", "{BAC044EE-CBDF-41F1-B07A-C725168920A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IrisFlowerClustering", "IrisFlowerClustering\IrisFlowerClustering.csproj", "{483E5A42-4D76-4599-BA99-7A8E9FC29B31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,5 +33,9 @@ Global
 		{BAC044EE-CBDF-41F1-B07A-C725168920A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAC044EE-CBDF-41F1-B07A-C725168920A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAC044EE-CBDF-41F1-B07A-C725168920A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{483E5A42-4D76-4599-BA99-7A8E9FC29B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483E5A42-4D76-4599-BA99-7A8E9FC29B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483E5A42-4D76-4599-BA99-7A8E9FC29B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483E5A42-4D76-4599-BA99-7A8E9FC29B31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
